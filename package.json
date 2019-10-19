@@ -1,0 +1,22 @@
+{
+  "name": "yelpcampautomationtesting",
+  "version": "1.0.0",
+  "description": "performing automation testing of YelpCamp website using Selelnium and Jasmine ",
+  "main": "test.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prakhar308/YelpCampAutomationTesting.git"
+  },
+  "author": "Prakhar Khandelwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prakhar308/YelpCampAutomationTesting/issues"
+  },
+  "homepage": "https://github.com/prakhar308/YelpCampAutomationTesting#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.5"
+  }
+}
