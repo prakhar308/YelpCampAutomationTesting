@@ -1,5 +1,5 @@
 # YelpCampAutomationTesting
-##  Automation testing of YelpCamp website in `Node.js` using `Selenium` and `Jasmine`
+##  Automation testing of YelpCamp website in `Node.js` using `Selenium WebDriver` and `Jasmine`
 
 ###### website link : https://thawing-headland-37322.herokuapp.com
 
